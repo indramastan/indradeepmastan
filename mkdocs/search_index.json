@@ -2,23 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "A hearty Welcome!\n\n\nI am a PhD student at IIT Gandhinagar. Prior to IITGn, I had wonderful experiences serving Hiddenreflex Bangalore.\n\n\nI spent my most beautiful and crucial phase of life at IISC Bangalore. I pursued my M.E. from Computer Science and Automation Department @IISC. I did my thesis in the domain of financial cryptography (with Dr. C. E. Veni Madhavan). Also worked closely in the software engineering field as part of my undergraduate projects in MNIT jaipur.\n\n\nApart from academics, I like dancing, sketching, beatboxing. I have participated in multiple stage performances in my student life.", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/cv/", 
+            "text": "", 
+            "title": "Cv"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
-        }, 
-        {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/projects/", 
+            "text": "Projects", 
+            "title": "Projects"
         }
     ]
 }
