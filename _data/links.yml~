@@ -1,8 +1,13 @@
 - url: /
   title: Home
 
-- url: /about
+- url: /indradeepmastan/projects
+  title: Projects
+
+- url: /indradeepmastan/about
   title: About
   
-- url: /contact
+- url: /indradeepmastan/contact
   title: Contact
+  
+  
