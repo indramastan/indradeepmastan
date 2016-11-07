@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-*Below are my acadamic projects. Project Details will be updated shortly.*
+*Please see the title of my projects below. The project details will be updated shortly.*
 
 #### Anonymity Analysis of Bitcoin
 - Currently working.
