@@ -3,4 +3,4 @@ layout: page
 title: Resume
 ---
 
-This is a Resume page.
+Page will be updated soon.

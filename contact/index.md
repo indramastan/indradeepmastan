@@ -3,4 +3,4 @@ layout: page
 title: Contact
 ---
 
-This is a contact page.
+Page will be updated soon

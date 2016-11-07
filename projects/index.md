@@ -3,4 +3,4 @@ layout: page
 title: Projects
 ---
 
-This is a projects page.
+Page will be updated soon.
