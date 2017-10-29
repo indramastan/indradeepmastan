@@ -5,7 +5,7 @@ title:
 **Publication**
 - Indra Deep Mastan and Souradyuti Paul, *A New Approach to Deanonymization of Unreachable Bitcoin Nodes*, Cryptography and Network Security (CANS) 2017, Springer, LNCS.
 
-__*Please see the title of my projects below. The project details will be updated shortly.*__
+**Projects:** (The project details will be updated shortly.)
 
 #### Generative Adversarial Networks
 - Currently working.
