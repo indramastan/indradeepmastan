@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects and Publication
+title: 
 ---
 __*Please see the title of my projects below. The project details will be updated shortly.*__
 
