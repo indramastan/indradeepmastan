@@ -7,11 +7,11 @@ title:
 
 **Projects:** (The project details will be updated shortly.)
 
-#### Generative Adversarial Networks
-- Currently working.
+1. Generative Adversarial Networks
+  - Currently working.
 
-#### Block chain and its application to health network
-- 2016
+2. Block chain and its application to health network
+  - 2016
 
 #### Digital Signature Primitives for Mobile Payment Systems
 -  Worked on an efficient adaptation of Certi cateless Signcryption and Re-Encryption schemes for NFC-based Mobile Payment Systems. Sponsored project by Indo-French Centre for the Promotion of Advanced Research (IFCPAR). 2013.
