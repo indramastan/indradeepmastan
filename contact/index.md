@@ -5,6 +5,6 @@ title: Contact
 
 #### Indra Deep Mastan
 
-Email: *indra.mastan@iitgn.ac.in*
+Email 1: *indra.mastan@iitgn.ac.in*
 
-Email: *immastan@gmail.com*
+Email 2: *immastan@gmail.com*
