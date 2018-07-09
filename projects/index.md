@@ -7,7 +7,7 @@ title:
 
 **Projects:** (The project details will be updated shortly.)
 
-1. Generative Adversarial Networks
+1. Image Restoration
   - Currently working.
 
 2. Block chain and its application to health network
