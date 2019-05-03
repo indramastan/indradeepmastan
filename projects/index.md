@@ -27,7 +27,7 @@ title:
   - Worked on Re-Encryption schemes which provides data security in the cloud. 2012.
 
 7. Quality Adaptive Scheduling for Live streaming over multiple Access Networks
-  - 2012
+  - 2012, I will put up the report for educational purpose.
 
 8. Universal Hashing for Join Size Estimation of Streaming Data
   - Developed an application which calculates join-size estimation of a continuous data stream. Implemented Fast Agms and Fast Count methods using a 4-universal hash function. 2011.
