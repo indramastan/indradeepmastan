@@ -4,7 +4,8 @@ title: Contact
 ---
 
 #### Indra Deep Mastan
+## Block 4, Room 303
+## Indian Institute of Technology Gandhinagar
 
-Email 1: *indra.mastan@iitgn.ac.in*
-
-Email 2: *immastan@gmail.com*
+Email (Official): *indra.mastan@iitgn.ac.in*
+Email (Personal): *immastan@gmail.com*
