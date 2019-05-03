@@ -8,11 +8,11 @@ title:
 
 **Projects:** (*The project details will be updated shortly.*)
 
-1. Deep features learning from a single image.
+1. Deep image features learning from a single image.
   - Currently working.
 
 2. Block chain and its application to health network
-  - 2016
+  - 2016, I will put up the report for educational purpose.
 
 3. Digital Signature Primitives for Mobile Payment Systems
   -  Worked on an efficient adaptation of Certi cateless Signcryption and Re-Encryption schemes for NFC-based Mobile Payment Systems. Sponsored project by Indo-French Centre for the Promotion of Advanced Research (IFCPAR). 2013.
