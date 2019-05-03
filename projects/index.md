@@ -3,6 +3,7 @@ layout: page
 title: 
 ---
 **Publication:**
+- Indra Deep Mastan and Shanmuganathan Raman, *[Multi-level Encoder-Decoder Architectures for Image Restoration](https://arxiv.org/pdf/1905.00322.pdf)*, CVPRW (New Trends in Image Restoration and Enhancement workshop) 2019.
 - Indra Deep Mastan and Souradyuti Paul, *A New Approach to Deanonymization of Unreachable Bitcoin Nodes*, Cryptography and Network Security (CANS) 2017, Springer, LNCS.
 
 **Projects:** (*The project details will be updated shortly.*)
