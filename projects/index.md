@@ -3,12 +3,12 @@ layout: page
 title: 
 ---
 **Publication:**
-- Indra Deep Mastan and Shanmuganathan Raman, *[Multi-level Encoder-Decoder Architectures for Image Restoration](https://arxiv.org/pdf/1905.00322.pdf)*, CVPRW (New Trends in Image Restoration and Enhancement workshop) 2019.
-- Indra Deep Mastan and Souradyuti Paul, *A New Approach to Deanonymization of Unreachable Bitcoin Nodes*, Cryptography and Network Security (CANS) 2017, Springer, LNCS.
+- Indra Deep Mastan and [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/), *[Multi-level Encoder-Decoder Architectures for Image Restoration](https://arxiv.org/pdf/1905.00322.pdf)*, CVPRW (New Trends in Image Restoration and Enhancement workshop) 2019.
+- Indra Deep Mastan and [Souradyuti Paul](http://souradyuti.com/), *[A New Approach to Deanonymization of Unreachable Bitcoin Nodes](https://eprint.iacr.org/2018/243.pdf)*, Cryptography and Network Security (CANS) 2017, Springer, LNCS.
 
 **Projects:** (*The project details will be updated shortly.*)
 
-1. Image Restoration
+1. Deep features learning from a single image.
   - Currently working.
 
 2. Block chain and its application to health network
