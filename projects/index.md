@@ -3,7 +3,8 @@ layout: page
 title: 
 ---
 **Publications.**
-- Indra Deep Mastan and [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/), *[Multi-level Encoder-Decoder Architectures for Image Restoration](https://arxiv.org/pdf/1905.00322.pdf)*, [CVPRW](http://www.vision.ee.ethz.ch/ntire19/) (New Trends in Image Restoration and Enhancement workshop) 2019.
+- Indra Deep Mastan and [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/), "DCIL: Deep Contextual Internal Learning for Image Restoration and Image Retargeting." In IEEE Winter Conference on Applications of Computer Vision ([WACV 2020](https://wacv20.wacv.net)).
+- Indra Deep Mastan and [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/), *[Multi-level Encoder-Decoder Architectures for Image Restoration](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Mastan_Multi-Level_Encoder-Decoder_Architectures_for_Image_Restoration_CVPRW_2019_paper.pdf)*, [CVPRW](http://www.vision.ee.ethz.ch/ntire19/) (New Trends in Image Restoration and Enhancement workshop) 2019.
 - Indra Deep Mastan and [Souradyuti Paul](http://souradyuti.com/), *[A New Approach to Deanonymization of Unreachable Bitcoin Nodes](https://eprint.iacr.org/2018/243.pdf)*, Cryptography and Network Security ([CANS](http://crypto.ie.cuhk.edu.hk/cans17/)) 2017, Springer, LNCS.
 
 **Projects** (*The project details will be updated shortly*).
