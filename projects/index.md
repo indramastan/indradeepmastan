@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Research
 ---
 **Publications.**
 - Indra Deep Mastan and [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/), "DCIL: Deep Contextual Internal Learning for Image Restoration and Image Retargeting." In IEEE Winter Conference on Applications of Computer Vision ([WACV 2020](https://wacv20.wacv.net)).
