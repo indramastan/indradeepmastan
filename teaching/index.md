@@ -2,4 +2,4 @@
 layout: page
 title: 
 ---
-**Below are the list of course for which I was Teaching Assistent.**
+Teaching Assistant of following courses at IIT Gandhinagar: Probability, Python, Machine Learning, and Cryptography and Network Security.
