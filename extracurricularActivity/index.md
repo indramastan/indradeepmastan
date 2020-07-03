@@ -11,7 +11,7 @@ title:
 
 **Positions of Responsibility**
 
-- Volunteer at Shri Sai Manav Seva Sansthan, Nasirabad - Ajmer, Rajasthan.
+- Volunteer at Shri Sai Manav Seva Sansthan, Nasirabad - Ajmer, Rajasthan --my home :)
 - Student Representative, Department of CSA, IISc Bangalore, 2012.
 - Member, Department Curriculum Committee (DCC), Department of CSA, IISc Bangalore, 2012.
 - Executive Member, Fine Arts Society, NIT Jaipur, 2009.
@@ -23,4 +23,4 @@ title:
 
 
 **Hobbies**
-- Face Sketching, dancing, Cooking, and Beatboxing.
+- Face Sketching, Dancing, Cooking, and Beatboxing.
