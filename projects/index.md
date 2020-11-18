@@ -3,6 +3,7 @@ layout: page
 title: 
 ---
 **Publications.**
+- *Indra Deep Mastan* and [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/), "DeepCFL: Deep Contextual Features Learning from a single image." In IEEE Winter Conference on Applications of Computer Vision ([WACV 2021](http://wacv2021.thecvf.com/)).
 - *Indra Deep Mastan* and [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/), "DCIL: Deep Contextual Internal Learning for Image Restoration and Image Retargeting." In IEEE Winter Conference on Applications of Computer Vision ([WACV 2020](https://wacv20.wacv.net)).
 - Blind Motion Deblurring through SinGAN Architecture. [ECCV 2020 Workshop](https://sites.google.com/view/deepinternallearning). H Jain, R Patil, *Indra Deep Mastan*, [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/).
 - *Indra Deep Mastan* and [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/), *[Multi-level Encoder-Decoder Architectures for Image Restoration](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Mastan_Multi-Level_Encoder-Decoder_Architectures_for_Image_Restoration_CVPRW_2019_paper.pdf)*, New Trends in Image Restoration and Enhancement ([CVPRW 19](http://www.vision.ee.ethz.ch/ntire19/)).
