@@ -7,7 +7,7 @@ title:
 - *Indra Deep Mastan* and [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/), "DCIL: Deep Contextual Internal Learning for Image Restoration and Image Retargeting." In IEEE Winter Conference on Applications of Computer Vision ([WACV 2020](https://wacv20.wacv.net)).
 - *Indra Deep Mastan* and [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/), *[Multi-level Encoder-Decoder Architectures for Image Restoration](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Mastan_Multi-Level_Encoder-Decoder_Architectures_for_Image_Restoration_CVPRW_2019_paper.pdf)*, In IEEE Conference on Computer Vision and Pattern Recognition Workshops 19.([CVPRW 19](http://www.vision.ee.ethz.ch/ntire19/)).
 - *Indra Deep Mastan* and [Souradyuti Paul](http://souradyuti.com/), *[A New Approach to Deanonymization of Unreachable Bitcoin Nodes](https://eprint.iacr.org/2018/243.pdf)*, In International Conference on Cryptology and Network Security ([CANS 2017](http://crypto.ie.cuhk.edu.hk/cans17/)), Springer, LNCS.
-- Blind Motion Deblurring through SinGAN Architecture. [ECCV 2020 Workshop](https://sites.google.com/view/deepinternallearning). H Jain, R Patil, *Indra Deep Mastan*, [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/).
+- H Jain, R Patil, *Indra Deep Mastan*, [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/), Blind Motion Deblurring through SinGAN Architecture. [ECCV 2020 Workshop](https://sites.google.com/view/deepinternallearning). .
 
 **Projects** (*The project details will be updated shortly*).
 
