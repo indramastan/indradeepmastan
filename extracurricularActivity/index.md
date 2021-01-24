@@ -3,11 +3,6 @@ layout: page
 title: 
 ---
 
-**Presentations**
-
-- Lightning Talk at 14th Inter-Research-Institute Student Seminar in Computer Science, 2020.
-- Speaker at NASSCOM CoE xChange Technical Workshop: Decision Making in Computer Vision, 2019.
-
 
 **Positions of Responsibility**
 
