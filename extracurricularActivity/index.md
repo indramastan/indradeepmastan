@@ -16,10 +16,10 @@ title:
 
 **Awards and Recognition**
 
+- Best Paper Award, “FMD-cGAN: Fast Motion Deblurring using Conditional Generative Adversarial Networks”, in the 6th IAPR International Conference on Computer Vision & Image Processing (CVIP), 2021.
 - WACV Doctoral Consortium, Winter Conference on Applications of Computer Vision 2021.
 - Supported by Visvesvaraya scholarship for Ph.D. students in Electronics and IT by MeitY, Govt. of India. 
-- Best Paper Award, “FMD-cGAN: Fast Motion Deblurring using Conditional Generative Adversarial Networks”, in the 6th IAPR International Conference on Computer Vision & Image Processing (CVIP), 2021.
-
+- 
 
 **Hobbies**
 - Duet Dance Performance, Jhankaar’12: An annual cultural show, IISc Bangalore, 2012.
