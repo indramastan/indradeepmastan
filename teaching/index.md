@@ -11,7 +11,7 @@ title:
 - Discrete Mathematical Structures (2022)
 
 
-**Teaching Assistant** for the following courses at **IIT Gandhinagar (2015-2020)**. 
+**Teaching Assistant** for the following courses at **IIT Gandhinagar (2015 - 2020)**. 
 
 - Python Programming            
 - Probability and Random Processes 
