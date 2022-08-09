@@ -1,6 +1,7 @@
+
 ---
 layout: post
-title: DeepObjStyle: Deep Object-based Photo Style Transfer (CVPRW'21)
+title: DeepObjStyle Deep Object based Photo Style Transfer (CVPRW'21)
 ---
 
 
