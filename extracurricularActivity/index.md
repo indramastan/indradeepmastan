@@ -7,10 +7,10 @@ title:
 **Positions of Responsibility**
 
 - Reviewer for following conferences: WACV, BMVC, and CVIP.
-- Co-Convenor, 4th International Workshop on Multimedia Applications (IWMA), LNMIIT Jaipur, March 14-18, 2022.
+- Co-Convenor, 4th International Workshop on Multimedia Applications (IWMA), LNMIIT Jaipur, 2022.
 - Student Representative, Department of CSA, IISc Bangalore, 2012.
 - Member, Department Curriculum Committee (DCC), Department of CSA, IISc Bangalore, 2012.
-- Executive Member, Fine Arts Society, NIT Jaipur, 2009.
+- Executive Member, Fine Arts Society, MNIT Jaipur, 2009.
 - Volunteer at Shri Sai Manav Seva Sansthan, Nasirabad - Ajmer, Rajasthan (near my home).
 
 
