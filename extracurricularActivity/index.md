@@ -6,7 +6,7 @@ title:
 
 **Positions of Responsibility**
 
-- Reviewer for following conferences: WACV, BMVC, and CVIP.
+- Reviewer for following conferences: WACV, BMVC, ICVGIP, and CVIP.
 - Co-Convenor, 4th International Workshop on Multimedia Applications (IWMA), LNMIIT Jaipur, 2022.
 - Student Representative, Department of CSA, IISc Bangalore, 2012.
 - Member, Department Curriculum Committee (DCC), Department of CSA, IISc Bangalore, 2012.
@@ -23,5 +23,5 @@ title:
 
 **Hobbies**
 - Duet Dance Performance, Jhankaar’12: An annual cultural show, IISc Bangalore, 2012.
-- Awarded 3rd Prize, Group Dance Competition TAAL’09, NIT Jaipur, 2009.
+- Awarded 3rd Prize, Group Dance Competition TAAL’09, MNIT Jaipur, 2009.
 - Others: Face Sketching, Cooking, and Beatboxing.
