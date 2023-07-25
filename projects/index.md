@@ -3,6 +3,7 @@ layout: page
 title: 
 ---
 **Publications.**
+- [Chanda Grover](https://chandagrover.github.io/), Indra Deep Mastan, Debayan Gupta. "Sem-CS: Semantic CLIPStyler for Text-Based Image Style Transfer". Accepted In IEEE International Conference on Image Processing (ICIP 2023).
 - [Chanda Grover](https://chandagrover.github.io/), Indra Deep Mastan, Debayan Gupta. "ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP Visual Representations". In Indian Conference on Computer Vision Graphics and Image Processing (ICVGIP 2022).
 - Indra Deep Mastan, [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/), and Prajwal Singh. "DILIE: deep internal learning for image enhancement." In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (Workshop), 2022.
 - Jatin Kumar, Indra Deep Mastan, and [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/). "FMD-cGAN: Fast Motion Deblurring using Conditional Generative Adversarial Networks." In International Conference on Computer Vision and Image Processing, Springer, Cham, 2022.
