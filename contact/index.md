@@ -4,9 +4,9 @@ title:
 ---
 
 #### Dr. Indra Deep Mastan
-The LNM Institute of Information Technology.
-Rupa ki Nangal, Post-Sumel, Via, Jamdoli, Jaipur, Rajasthan 302031.
+Department of Computer Science and Engineering
+Indian Institute of Technology (BHU) Varanasi
 
-- *Email* (Official): *indradeep.mastan@lnmiit.ac.in*.
+- *Email* (Official): *indra.cse@itbhu.ac.in*.
 - *Email* (Official): *indra.mastan@alumni.iitgn.ac.in*.
 - *Email* (Personal): *immastan@gmail.com*.
