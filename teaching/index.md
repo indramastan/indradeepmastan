@@ -5,7 +5,7 @@ title:
 
 **My Calendar**
 
-<iframe src="https://calendar.google.com/calendar/u/0?cid=aW5kcmEuY3NlQGl0Ymh1LmFjLmlu" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=indra.cse%40itbhu.ac.in&ctz=Asia%2FKolkata" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 
