@@ -1,0 +1,6 @@
+---
+layout: post
+title: BloomCoreset: Fast Coreset Sampling using Bloom Filters for Fine-Grained Self-Supervised Learning (ICASSP 2025)
+---
+
+The success of deep learning in supervised fine-grained recognition for domain-specific tasks relies heavily on expert annotations. The Open-Set for fine-grained Self-Supervised Learning (SSL) problem aims to enhance performance on downstream tasks by strategically sampling a subset of images (the Core-Set) from a large pool of unlabeled data (the Open-Set). In this paper, we propose a novel method, BloomCoreset, that significantly reduces sampling time from Open-Set while preserving the quality of samples in the coreset. To achieve this, we utilize Bloom filters as an innovative hashing mechanism to store both low- and high-level features of the fine-grained dataset, as captured by Open-CLIP, in a space-efficient manner that enables rapid retrieval of the coreset from the Open-Set. To show the effectiveness of the sampled coreset, we integrate the proposed method into the state-of-the-art fine-grained SSL framework, SimCore [1]. The proposed algorithm drastically outperforms the sampling strategy of the baseline in [1] with a 98.5% reduction in sampling time with a mere 0.83% average trade-off in accuracy calculated across 11 downstream datasets. We have made the code publicly available.
