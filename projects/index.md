@@ -3,6 +3,11 @@ layout: page
 title: 
 ---
 **Publications.**
+
+- Akbar Ali, Indra Deep Mastan, Shanmuganathan Raman. Investigating Robustness of Unsupervised StyleGAN Image Restoration. Accepted in IEEE International Conference on Image Processing (ICIP 2025).
+- Akbar Ali, Mahek Vyas, Soumyaratna Debnath, Chanda Grover Kamra, Jaidev Sanjay Khalane, Reuben Shibu Devanesan, Indra Deep Mastan, Subramanian Sankaranarayanan, Pankaj Khanna, Shanmuganathan Raman. COT-AD: Cotton Analysis Dataset. Accepted in IEEE International Conference on Image Processing (ICIP 2025).
+- Prajwal Singh, Gautam Vashishtha, Indra Deep Mastan, Shanmuganathan Raman. BloomCoreset: Fast Coreset Sampling using Bloom Filters for Fine-Grained Self-Supervised Learning. In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025).
+- Chanda Grover, Indra Deep Mastan, Nitin Kumar, Debayan Gupta. SimSAM: Simple Siamese Representation-Based Semantic Affinity Matrix for Unsupervised Image Segmentation. Accepted in IEEE International Conference on Image Processing (ICIP 2024).
 - [Chanda Grover](https://chandagrover.github.io/), Indra Deep Mastan, Debayan Gupta. "Sem-CS: Semantic CLIPStyler for Text-Based Image Style Transfer". Accepted In IEEE International Conference on Image Processing (ICIP 2023).
 - [Chanda Grover](https://chandagrover.github.io/), Indra Deep Mastan, Debayan Gupta. "ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP Visual Representations". In Indian Conference on Computer Vision Graphics and Image Processing (ICVGIP 2022).
 - Indra Deep Mastan, [Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/), and Prajwal Singh. "DILIE: deep internal learning for image enhancement." In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (Workshop), 2022.
