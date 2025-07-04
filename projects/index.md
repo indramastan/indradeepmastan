@@ -4,6 +4,7 @@ title:
 ---
 **Publications.**
 
+- Chanda Grover, Indra Deep Mastan, Debayan Gupta. ObjMST: An Object Focused Multimodal Style Transfer Framework. In Pattern Recognition Letters (PRL 2025).
 - Akbar Ali, Indra Deep Mastan, Shanmuganathan Raman. Investigating Robustness of Unsupervised StyleGAN Image Restoration. Accepted in IEEE International Conference on Image Processing (ICIP 2025).
 - Akbar Ali, Mahek Vyas, Soumyaratna Debnath, Chanda Grover Kamra, Jaidev Sanjay Khalane, Reuben Shibu Devanesan, Indra Deep Mastan, Subramanian Sankaranarayanan, Pankaj Khanna, Shanmuganathan Raman. COT-AD: Cotton Analysis Dataset. Accepted in IEEE International Conference on Image Processing (ICIP 2025).
 - Prajwal Singh, Gautam Vashishtha, Indra Deep Mastan, Shanmuganathan Raman. BloomCoreset: Fast Coreset Sampling using Bloom Filters for Fine-Grained Self-Supervised Learning. In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025).
